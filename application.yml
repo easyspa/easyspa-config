@@ -1,0 +1,9 @@
+
+configserver:
+    name: Gateway Registry config server
+    status: Connected to the Gatway Registry config server, using https://github.com/easyspa/easyspa-config !
+simlife:
+    security:
+        authentication:
+            jwt:
+                secret: my-secret-token-to-change-in-production
